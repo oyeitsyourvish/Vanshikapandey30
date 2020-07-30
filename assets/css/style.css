@@ -211,7 +211,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/giphy (1).gif) repeat center / cover;
+    background: url(../img/giphy(1).gif) repeat center / cover;
     background-repeat: repeat;
     height: 100%;
     width: 100%;
