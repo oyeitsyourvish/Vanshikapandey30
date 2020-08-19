@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**vanshika3018/vanshika3018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my portfolio website.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently pursuing Btech in IT form MIT Pune ...
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with internships...
+- 💬 Ask me about websites..
+- 📫 How to reach me: pandeyvanshi3028@gmail.com  ...
+- 😄 Pronouns: she/her...
+
+-->
