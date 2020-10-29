@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](x.gif)
 - 🔭 I’m currently pursuing Btech in IT form MIT Pune ...
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
