@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](y.gif)
 ![](x.gif)
 - 🔭 I’m currently pursuing Btech in IT form MIT Pune ...
 - 🌱 I’m currently learning Flutter
