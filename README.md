@@ -2,6 +2,8 @@
 <!-- Actual text -->
 ![](y.gif)
 ![](x.gif)
+
+
 Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
