@@ -15,7 +15,7 @@ Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/
-[3]: vanshp.netlify.app
+[3]: https://vanshp.netlify.app
 - 🔭 Reach me at [3]
 - 🔭 I’m currently pursuing Btech in IT form MIT ADT Pune ...
 - 🌱 I’m currently learning Everything 😄
