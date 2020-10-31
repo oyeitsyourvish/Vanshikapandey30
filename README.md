@@ -16,13 +16,12 @@ Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/
 [here]: https://vanshp.netlify.app
-- 🔭 Reach to me [here]
-- 🔭 I’m currently pursuing Btech in IT form MIT ADT Pune ...
+- 😄 Pronouns: she/her
+- 💬 Reach to me [here]
+- 🔭 I’m currently pursuing Btech in IT form MIT ADT, Pune
 - 🌱 I’m currently learning Everything 😄
-- 👯 I’m looking to collaborate on projects...
-- 🤔 I’m looking for help with internships...
-- 💬 Ask me about websites..
-- 📫 Contact me: pandeyvanshi3028@gmail.com  ...
-- 😄 Pronouns: she/her...
+- 👯 I’m looking to collaborate on projects and help with internships
+- 📫 Contact me: pandeyvanshi3028@gmail.com 
+
 
 
