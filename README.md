@@ -14,11 +14,11 @@
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/-->
 [website]: https://vanshp.netlify.app
 
-- 🔭 I’m currently pursuing Btech in IT(Data Analysis) from MIT ADT University, Pune.
-- 🌱 I’m currently learning Everything 😄
-- 👯 I’m looking to collaborate on projects and help with internships
-- 💬 Please visit my portfolio [website].
-- 📫 Contact me: pandeyvanshi3028@gmail.com 
+-  I’m currently pursuing Btech in IT(Data Analysis) from MIT ADT University, Pune.
+-  I’m currently learning ML and DL concepts.
+-  I’m looking to collaborate on projects and help with internships.
+-  Please visit my portfolio [website].
+-  Contact me: pandeyvanshi3028@gmail.com 
 
 
 
