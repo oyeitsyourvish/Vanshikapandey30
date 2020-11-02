@@ -3,7 +3,7 @@
 ![](y.gif)
 ![](x.gif)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vanshika302)](https://twitter.com/Vanshika302) [![Linkedin Badge](https://img.shields.io/badge/-Vanshika Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vanshika-pandey-b448391a5/)](https://www.linkedin.com/in/vanshika-pandey-b448391a5/) [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
+[![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vanshika302)](https://twitter.com/Vanshika302) [![Linkedin Badge](https://img.shields.io/badge/-VanshikaPandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshika-pandey-b448391a5/)](https://www.linkedin.com/in/vanshika-pandey-b448391a5/) [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
 [![Gmail Badge](https://img.shields.io/badge/-sameerkhanofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sameerkhanofficial@gmail.com)](mailto:sameerkhanofficial@gmail.com)
 
 Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
