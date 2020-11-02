@@ -16,7 +16,7 @@ Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/
 [here]: https://vanshp.netlify.app
-- 😄 Pronouns: she/her
+
 - 💬 Reach to me [here]
 - 🔭 I’m currently pursuing Btech in IT form MIT ADT, Pune
 - 🌱 I’m currently learning Everything 😄
