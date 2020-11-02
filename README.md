@@ -15,12 +15,12 @@ Catch me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/Vanshika302
 [2]: https://www.linkedin.com/in/vanshika-pandey-b448391a5/
-[here]: https://vanshp.netlify.app
+[website]: https://vanshp.netlify.app
 
-- 💬 Reach to me [here]
-- 🔭 I’m currently pursuing Btech in IT form MIT ADT, Pune
+- 🔭 I’m currently pursuing Btech in IT(Data Analysis) Pune
 - 🌱 I’m currently learning Everything 😄
 - 👯 I’m looking to collaborate on projects and help with internships
+- 💬 Please visit my portfolio [website].
 - 📫 Contact me: pandeyvanshi3028@gmail.com 
 
 
