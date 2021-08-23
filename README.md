@@ -19,7 +19,7 @@ I'm Vanshika Pandey 😃
 -  I’m currently learning ML and DL concepts.
 -  I’m looking to collaborate on projects and help with internships.
 -  Please visit my portfolio [website].
--  Contact me: pandeyvanshi3028@gmail.com 
+-  Contact me: pandeyvanshi3028@gmail.com
 
 
 
