@@ -569,3 +569,75 @@ a.icon-up-bg:hover {color: #212121;}
     color: #fff;
     text-align: center;
 }
+
+
+
+<!---------------------------------------- SOCIAL MEDIA ICONS CSS ADDED ------------------------------------------------------------->
+.link p{
+    background-color: yellow;
+  }
+
+  .icon{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+  }
+  .icon a{
+    height: 100px;
+    width: 100px;
+    background: #f5f6fa;
+    margin: 10px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 1px 4px 2px 2px #dcdde1 fa-2x;
+    line-height: 110px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .fa-instagram{
+    color: #e84393;
+  }
+  .fa-youtube{
+    color: #e84118;
+  }
+  .fa-linkedin{
+    color: #0097e6;
+  }
+  .fa-github{
+    color: #000;
+    
+  }
+
+  .icon a i{
+    transition: all 0.3s linear;
+  }
+  .icon a:hover .fab{
+    transform: scale(1.5);
+    color: #f5f6fa;
+  }
+
+  .icon a:before{
+    content: "";
+    width: 120%;
+    height: 120%;
+    position: absolute;
+    top: 90%;
+    left: -50%;
+    background-color: #00a8ff;
+    transform: rotate(60deg);
+  }
+
+  .icon a:hover:before{
+    animation: socialicon 0.8s 1;
+    animation-fill-mode: forwards;
+
+  }
+
+  @keyframes socialicon{
+    0% {top: 90%; left: -50%; }
+    50% {top: -60%; left: -10%; }
+    100% {top: -10%; left: -10%; }
+  }
